@@ -12,3 +12,15 @@
 **Use Case:** Helps users create strong passwords to enhance security.
 
 ---
+### 2. Port Scanner  
+**Description:** A Python script that scans a specified range of ports on a target IP or domain to detect open ports using sockets.  
+
+**Features:**  
+- Scans a given range of ports.  
+- Identifies open ports on a target system.  
+- Displays scan duration for performance tracking.  
+- Handles errors such as invalid domains and unreachable servers.  
+
+**Use Case:** Useful for network administrators and security professionals to check for open ports and potential vulnerabilities in a system. 
+ 
+---
