@@ -2,14 +2,15 @@
 
 ## Beginner-Level Projects
 
-### 1. Password Strength Checker
-**Description:** A Python-based tool to check the strength of passwords based on predefined policies (e.g., length, special characters, uppercase, lowercase, and numbers).
+### 1. Password Strength Checker  
+**Description:** A Python program that evaluates the strength of a password based on predefined security criteria, such as length, uppercase and lowercase letters, numbers, and special characters.  
 
-**Features:**
-- Validates password strength.
-- Provides feedback on how to improve weak passwords.
+**Features:**  
+- Checks if the password meets length and character diversity requirements.  
+- Assigns a strength rating (Weak, Medium, Strong).  
+- Provides feedback on improving weak passwords.  
 
-**Use Case:** Helps users create strong passwords to enhance security.
+**Use Case:** Helps users create stronger passwords to enhance account security and prevent unauthorized access.
 
 ---
 ### 2. Port Scanner  
@@ -22,5 +23,5 @@
 - Handles errors such as invalid domains and unreachable servers.  
 
 **Use Case:** Useful for network administrators and security professionals to check for open ports and potential vulnerabilities in a system. 
- 
+
 ---
