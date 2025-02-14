@@ -1,5 +1,3 @@
-Your **URL Phishing Detection Tool** is a useful Python script that combines pattern-based detection with VirusTotal's API to evaluate the safety of a URL. Below is a detailed report on the code, its functionality, and suggestions for improvement.
-
 ---
 
 ## **URL Phishing Detection Tool**
