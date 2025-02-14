@@ -1,7 +1,6 @@
----
 
 ## **URL Phishing Detection Tool**
-
+---
 ### **Description**
 The tool checks a given URL for phishing indicators using two methods:
 1. **Pattern-Based Detection**: Identifies suspicious patterns in the URL (e.g., fake login pages, scam keywords, suspicious domain extensions, or direct IP usage).
