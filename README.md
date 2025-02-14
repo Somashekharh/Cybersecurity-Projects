@@ -25,3 +25,13 @@
 **Use Case:** Useful for network administrators and security professionals to check for open ports and potential vulnerabilities in a system. 
 
 ---
+### 3. Phishing Website Detector
+**Description:** A tool that analyzes URLs to detect phishing websites using APIs like VirusTotal or PhishTank.
+
+**Features:**
+- Checks domain reputation.
+- Identifies suspicious patterns in URLs.
+
+**Use Case:** Protects users from visiting malicious websites.
+
+---
